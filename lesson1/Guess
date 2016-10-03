@@ -1,0 +1,12 @@
+secret=5
+
+
+guess=raw_input("Enter the value for guess: ")
+print guess
+
+
+if guess=="5":
+    print "Gratuliere"
+
+elif guess!="5":
+    print "Des woars ned"
